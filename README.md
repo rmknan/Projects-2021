@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohanakrishnan
 - 👀 I’m interested in Control Systems, Machine Learning and Robotics
 - 🌱 I’m currently learning ROS 
-- 💞️ I’m looking to collaborate on areas related to my field of interests.
+- 💞️ I’m looking to collaborate on areas related to Control Systems and Robotics
 - 📫 How to reach me 
 
 <!---
